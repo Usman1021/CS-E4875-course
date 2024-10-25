@@ -8,7 +8,7 @@ This repository contains the Jupyter notebooks and related files for the CS-E487
    
 Please refer to the notebooks for guidelines.
 
-For more information or to report any bugs, feel free to contact us at usman.muhammad@aalto.fi or usman@mail.bnu.edu.cn.
+For more information or to report any bugs, feel free to contact at usman.muhammad@aalto.fi or usman@mail.bnu.edu.cn.
 
 
 
