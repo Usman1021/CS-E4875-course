@@ -11,12 +11,12 @@ Please refer to the notebooks for guidelines.
 
 The main purpose of this course is to provide you an experience to the practical research. Specifically, at the end of the course, you should be able to:
 
-Focus and study deeper a research problem 
-Search, find, and study related literature 
-Collaborate with other researchers, be part of a research team 
-Find out how theory works in practice 
-Deal with uncertainty and frustration of not knowing the correct answer 
-Communicate your results with presentations and reports 
+* Focus and study deeper a research problem
+*  Search, find, and study related literature 
+* Collaborate with other researchers, be part of a research team 
+* Find out how theory works in practice 
+* Deal with uncertainty and frustration of not knowing the correct answer 
+* Communicate your results with presentations and reports 
 
 
 
