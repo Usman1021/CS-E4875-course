@@ -1,5 +1,5 @@
 # CS-E4875-course
-Research Project in Machine Learning, Data Science, and Artificial Intelligence (CS-E4875).
+Programming exercise for the Research Project in Machine Learning, Data Science, and Artificial Intelligence (CS-E4875).
 This repository contains Jupyter notebooks and related files for the CS-E4875 project in the Department of Computer Science at Aalto University. It includes:
 
 1. Data preprocessing,
