@@ -1,6 +1,6 @@
 # CS-E4875-course
 Programming exercises for the CS-E4875 Research Project in Machine Learning, Data Science, and Artificial Intelligence.
-This repository contains Jupyter notebooks and related files for the CS-E4875 project in the Department of Computer Science at Aalto University. It includes:
+This repository contains Jupyter notebooks and related files for the CS-E4875 project. It includes:
 
 1. Data preprocessing
 2. The PyTorch-based framework
