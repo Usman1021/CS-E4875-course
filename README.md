@@ -2,9 +2,9 @@
 Programming exercises for the CS-E4875 Research Project in Machine Learning, Data Science, and Artificial Intelligence.
 This repository contains Jupyter notebooks and related files for the CS-E4875 project in the Department of Computer Science at Aalto University. It includes:
 
-1. Data preprocessing,
-2. The PyTorch-based framework,
-3. The TensorFlow-based framework.
+1. Data preprocessing
+2. The PyTorch-based framework
+3. The TensorFlow-based framework
    
 Please refer to the notebooks for guidelines.
 
