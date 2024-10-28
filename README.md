@@ -8,15 +8,6 @@ This repository contains Jupyter notebooks and related files for the CS-E4875 pr
    
 Please refer to the notebooks for guidelines.
 
-
-The main purpose of this project-based course is to provide practical research experience. Specifically, by the end of the course, you will be able to:
-
-* Focus and study deeper a research problem
-* Collaborate with other researchers, be part of a research team 
-* Find out how theory works in practice 
-* Communicate your results with presentations and reports 
-
-
 For more information or to report any bugs, feel free to contact at usman.muhammad@aalto.fi or usman@mail.bnu.edu.cn.
 
 
